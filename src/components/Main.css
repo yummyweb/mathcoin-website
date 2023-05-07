@@ -1,0 +1,47 @@
+.main {
+    padding: 100px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: #4CB050;
+    width: 80%;
+    gap: 100px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 35%;
+    gap: 25px;
+}
+
+.left h1 {
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.left p {
+    font-size: 20px;
+}
+
+.icons {
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.solscan-icon {
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+}
+
+.raydium-icon {
+    border-radius: 50%;
+    height: 50px;
+}
+
+.right img {
+    width: 270px;
+}
