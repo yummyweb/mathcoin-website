@@ -42,6 +42,11 @@
     height: 50px;
 }
 
+.birdeye-icon {
+    border-radius: 50%;
+    height: 50px;
+}
+
 .right img {
     width: 270px;
 }

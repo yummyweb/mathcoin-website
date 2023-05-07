@@ -1,0 +1,10 @@
+.about {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: #4CB050;
+}
+
+.about h1 {
+    font-size: 42px;
+}
