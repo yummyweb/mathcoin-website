@@ -1,10 +1,19 @@
 .about {
     margin-top: 50px;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     color: #4CB050;
+    background-image: url("https://media.discordapp.net/attachments/1104739615564374158/1104748746836820088/Background.png?width=2182&height=1228");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .about h1 {
     font-size: 42px;
+}
+
+.about p {
+    margin-top: 52px;
+    width: 60%;
 }
